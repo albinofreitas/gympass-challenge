@@ -1,0 +1,9 @@
+O desenvolvimento do teste foi realizado utilizando o node.js
+
+Por tanto inclui algumas dependências que devem ser instaladas caso deseje executar
+código.
+
+Para instalar as dependências é necessário ter o npm e node instalados e deve usar 
+o comando "npm install"
+
+Para executar o projeto utilize o comando "yarn dev ./src/index.js" na raiz do projeto
